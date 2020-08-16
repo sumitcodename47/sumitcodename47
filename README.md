@@ -19,9 +19,7 @@ Learnig Data Science and DevOps basics.
 - Interests : Travelling, Cooking, Video Games.
 - ⚡ Fun fact: 9GAGer.
 
-> Motivation is temporary, discipline is Permanant.
-
-> Your progress depends on your Team, be it a technical, personal or professional.
+> Motivation is temporary, discipline is Permanent.
 
 - 📫 How to reach me:
 
