@@ -1,9 +1,5 @@
 # Hi there 👋, I am Sumit Ganjave.
 
-## MEAN stack developer
-
-### Noob DevOps engineer and Data Science enthusiast.
-
 I am a MEAN stack developer who strives to develop modular and efficient code.
 Well versed in JavaScript, nodejs, Angular and MongoDB. Also worked on MySQL, OracleDB, Polymer, AEM, VMware and Windows administration.
 Good understanding of all phases of Web Applications development, from design to deployment.
