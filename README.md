@@ -9,7 +9,7 @@ Well versed in JavaScript, nodejs, Angular and MongoDB. Also worked on MySQL, Or
 Good understanding of all phases of Web Applications development, from design to deployment.
 Learnig Data Science and DevOps basics.
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+<img align="right" alt="GIF" height='384' width='306' src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 **Know more about me**
 
