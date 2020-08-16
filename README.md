@@ -16,9 +16,7 @@ Steadily growing into people management.
 - Interests : Travelling, Cooking, Video Games.
 - ⚡ Fun fact: 9GAGer.
 
-> Motivation is temporary, discipline is Permanent.
-
-- 📫 How to reach me:
+📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sumitganjave-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumitganjave/)](https://www.linkedin.com/in/sumitganjave/)
 [![Twitter](https://img.shields.io/badge/-sumitganjave-blue?style=?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/sumitganjave/)](https://twitter.com/Sumit_47)
