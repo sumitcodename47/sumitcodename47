@@ -21,7 +21,6 @@ Steadily growing into people management.
 [![Linkedin Badge](https://img.shields.io/badge/-sumitganjave-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumitganjave/)](https://www.linkedin.com/in/sumitganjave/)
 [![Twitter](https://img.shields.io/badge/-sumitganjave-blue?style=?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/sumitganjave/)](https://twitter.com/Sumit_47)
 [![Stack Overflow Badge](https://img.shields.io/badge/-@sumitganjave-orange?style=flat&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/4435774/sumit-ganjave?tab=profile)](https://stackoverflow.com/users/4435774/sumit-ganjave?tab=profile)
-[![Gmail Badge](https://img.shields.io/badge/-sumit.ganjave12-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sumit.ganjave17@gmail.com)](mailto:sumit.ganjave17@gmail.com)
 
 **Skills**
 
