@@ -6,12 +6,11 @@ Fast learner and eager to explore new technologies. Believer in agile software d
 
 Steadily growing into people management.
 
-<img align="right" alt="GIF" width='276' src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 **Know more about me**
 
 - I'm currently working with [Xoriant](https://xoriant.com) as Senior Software Engineer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I'm currently learning DevOps and Data Science basics.
+- I'm currently learning React.
 - [Curriculum Vitae](https://drive.google.com/file/d/1gUa-px75LOEV0rOP82Mu6eFevyWhLd51/view?usp=sharing)
 - Interests : Travelling, Cooking, Video Games.
 - ⚡ Fun fact: 9GAGer.
@@ -34,13 +33,3 @@ Steadily growing into people management.
 | Collaboration        | ![](https://img.shields.io/badge/JIRA-3-9400D3?labelColor=7D898B) ![](https://img.shields.io/badge/Confluence-3-9400D3?labelColor=7D898B)                                                                                                                                                                                                                                                                                   |
 | Source Control Tools | ![](https://img.shields.io/badge/GIT-3-9400D3?labelColor=7D898B)                                                                                                                                                                                                                                                                                                                                                            |
 | Containerization     | ![](https://img.shields.io/badge/Docker-1-9400D3?labelColor=7D898B)                                                                                                                                                                                                                                                                                                                                                         |
-
-#### Want to Build Your Own?
-
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
-
-1. Create a _special_ GitHub repository with your username as repository name. My username is `sumitcodename47` so my profile readme repository has the name `sumitcodename47`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
-
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page.
